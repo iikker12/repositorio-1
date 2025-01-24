@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+  <script>
+    let nombre = "Bob"
+    alert("Su nombre es ${nombre}");
+
+    alert(`Si tengo 2 manzanas y 2 peras, tengo ${2+2} frutas`)
+    
+  </script>
+</body>
+</html>
